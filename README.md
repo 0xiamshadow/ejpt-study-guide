@@ -43,5 +43,6 @@ This repository does **not** contain confidential exam questions, answers, flags
 Ahmad Hussain
 
 GitHub: https://github.com/0xiamshadow
+Medium Article Link : https://medium.com/p/4dffcc46b96f?postPublishedType=initial
 
 If this repository helped you, consider giving it a ⭐.
